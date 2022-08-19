@@ -1,5 +1,5 @@
 # Cellular Automaton
-Two Python programs that shows cellular automaton, Langton's ant and the game of life.
+Langton's ant and the game of life in Python with Matplotlib.
 
 <p align="center">
   <img src="https://github.com/JimPavan/cellular-automaton/blob/master/screenshots/gof.gif" width="400"/>
