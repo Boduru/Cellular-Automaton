@@ -1,5 +1,5 @@
 # Cellular Automaton
-Langton's Ant and the Game of Life in Python with Matplotlib.
+Langton's Ant and Conway's Game of Life in Python with Matplotlib.
 
 <p align="center">
   <img src="https://github.com/JimPavan/cellular-automaton/blob/master/screenshots/gof.gif" width="400"/>
