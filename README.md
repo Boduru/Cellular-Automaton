@@ -10,7 +10,7 @@ Langton's Ant and the Game of Life in Python with Matplotlib.
 - matplotlib
 - numpy
 
-## Run Game Of Life
+## Run Game of Life
 ```
 python game_of_life.py
 ```
